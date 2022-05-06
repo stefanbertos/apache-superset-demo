@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "6274e33282965ca86475ee07",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e33282965ca86475ee07",
+      "key": "test_kpi_6274e33282965ca86475ee07",
+      "raster_code": "w",
+      "timestamp": "2019-04-17T14:43:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 84,
+      "value_original": 100
+    }
+  },
+  {
+    "_id": "6274e332ebaecae6f8f448ac",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e332ebaecae6f8f448ac",
+      "key": "test_kpi_6274e332ebaecae6f8f448ac",
+      "raster_code": "w",
+      "timestamp": "2019-04-17T13:38:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 90,
+      "value_original": 100
+    }
+  },
+  {
+    "_id": "6274e332ff0e18301850ea16",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e332ff0e18301850ea16",
+      "key": "test_kpi_6274e332ff0e18301850ea16",
+      "raster_code": "w",
+      "timestamp": "2019-04-19T17:46:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 74,
+      "value_original": 100
+    }
+  },
+  {
+    "_id": "6274e33220a61759f3f312e6",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e33220a61759f3f312e6",
+      "key": "test_kpi_6274e33220a61759f3f312e6",
+      "raster_code": "w",
+      "timestamp": "2019-04-17T23:51:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 72,
+      "value_original": 100
+    }
+  },
+  {
+    "_id": "6274e33266c1ce961cd48a5c",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e33266c1ce961cd48a5c",
+      "key": "test_kpi_6274e33266c1ce961cd48a5c",
+      "raster_code": "w",
+      "timestamp": "2019-04-15T23:49:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 69,
+      "value_original": 100
+    }
+  },
+  {
+    "_id": "6274e332e1f2800a41504f26",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e332e1f2800a41504f26",
+      "key": "test_kpi_6274e332e1f2800a41504f26",
+      "raster_code": "w",
+      "timestamp": "2019-04-17T16:58:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 57,
+      "value_original": 100
+    }
+  },
+  {
+    "_id": "6274e3320d7ce72ca1cdbea1",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e3320d7ce72ca1cdbea1",
+      "key": "test_kpi_6274e3320d7ce72ca1cdbea1",
+      "raster_code": "w",
+      "timestamp": "2019-04-15T18:47:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 24,
+      "value_original": 100
+    }
+  },
+  {
+    "_id": "6274e332680d693dbba84272",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e332680d693dbba84272",
+      "key": "test_kpi_6274e332680d693dbba84272",
+      "raster_code": "w",
+      "timestamp": "2019-04-19T14:57:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 100,
+      "value_original": 100
+    }
+  },
+  {
+    "_id": "6274e332434379894511515e",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e332434379894511515e",
+      "key": "test_kpi_6274e332434379894511515e",
+      "raster_code": "w",
+      "timestamp": "2019-04-18T16:51:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 67,
+      "value_original": 100
+    }
+  },
+  {
+    "_id": "6274e332f34028dae6fc7015",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e332f34028dae6fc7015",
+      "key": "test_kpi_6274e332f34028dae6fc7015",
+      "raster_code": "w",
+      "timestamp": "2019-04-16T21:33:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 61,
+      "value_original": 100
+    }
+  },
+  {
+    "_id": "6274e332f0e88bed20051b31",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e332f0e88bed20051b31",
+      "key": "test_kpi_6274e332f0e88bed20051b31",
+      "raster_code": "w",
+      "timestamp": "2019-04-18T18:30:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 71,
+      "value_original": 100
+    }
+  },
+  {
+    "_id": "6274e332e428dbc4bfe1931f",
+    "_index": "test_kpi",
+    "_score": 1,
+    "_source": {
+      "id": "6274e332e428dbc4bfe1931f",
+      "key": "test_kpi_6274e332e428dbc4bfe1931f",
+      "raster_code": "w",
+      "timestamp": "2019-04-18T12:52:59.999Z",
+      "timestamp_end": "2019-04-21T21:59:59.999Z",
+      "timestamp_start": "2019-04-14T22:00:00.000Z",
+      "value": 24,
+      "value_original": 100
+    }
+  }
+]
